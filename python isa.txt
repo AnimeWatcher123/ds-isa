@@ -1,1 +1,14 @@
-Python code will be here...
+Q1 ADD THE FOLLOWING SEPARATELY
+
+
+
+
+
+
+Q2 ADD THE FOLLOWING SEPARATELY
+
+for i in range(4):
+    print(1)
+
+for i in range(1, 6):
+    print(i, end=" ")
