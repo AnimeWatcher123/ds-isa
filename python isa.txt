@@ -1,5 +1,11 @@
 Q1 ADD THE FOLLOWING SEPARATELY
 
+a = float(input("Enter the value of a: "))
+x = float(input("Enter the value of x: "))
+
+result = ((a - x)/(a + x)) ** (1/2)
+
+print("The result of the formula sqrt((a-x)/(a+x)) is:", result)
 
 
 
